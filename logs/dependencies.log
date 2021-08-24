@@ -1,0 +1,5 @@
+{"asctime": "2021-08-24 01:39:46,072", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:39:46,075", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 01:41:31,271", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:41:57,704", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:42:35,126", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
