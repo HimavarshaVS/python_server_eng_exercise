@@ -77,3 +77,58 @@
 {"asctime": "2021-08-25 07:46:48,377", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "create record in for chains"}
 {"asctime": "2021-08-25 07:46:53,653", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint \"chains_name_key\"\nDETAIL:  Key (name)=(Armani) already exists.\n\n[SQL: INSERT INTO chains (name, image_url, country, online_store) VALUES (%(name)s, %(image_url)s, %(country)s, %(online_store)s) RETURNING chains.id]\n[parameters: {'name': 'Armani', 'image_url': 'http://imghost.com/2.jpg', 'country': 'US', 'online_store': 'yes'}]\n(Background on this error at: http://sqlalche.me/e/gkpj)"}
 {"asctime": "2021-08-25 07:47:37,398", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "create record in for chains"}
+{"asctime": "2021-08-25 11:44:07,054", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "create record in for chains"}
+{"asctime": "2021-08-25 11:44:07,055", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:44:07,061", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint \"chains_name_key\"\nDETAIL:  Key (name)=(Armani) already exists.\n\n[SQL: INSERT INTO chains (name, image_url, country, online_store) VALUES (%(name)s, %(image_url)s, %(country)s, %(online_store)s) RETURNING chains.id]\n[parameters: {'name': 'Armani', 'image_url': 'http://imghost.com/2.jpg', 'country': 'US', 'online_store': 'yes'}]\n(Background on this error at: http://sqlalche.me/e/gkpj)"}
+{"asctime": "2021-08-25 11:47:58,118", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "create record in for chains"}
+{"asctime": "2021-08-25 11:47:58,118", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:47:58,118", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 11:50:32,154", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:50:32,155", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:50:59,258", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:50:59,258", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:50:59,265", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint \"chains_name_key\"\nDETAIL:  Key (name)=(Bakers) already exists.\n\n[SQL: INSERT INTO chains (name, image_url, country, online_store) VALUES (%(name)s, %(image_url)s, %(country)s, %(online_store)s) RETURNING chains.id]\n[parameters: {'name': 'Bakers', 'image_url': 'http://imghost.com/2.jpg', 'country': 'US', 'online_store': 'yes'}]\n(Background on this error at: http://sqlalche.me/e/gkpj)"}
+{"asctime": "2021-08-25 11:51:11,009", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:51:11,009", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:52:09,130", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:52:09,130", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:56:50,583", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:56:50,584", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:57:53,921", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:57:53,921", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:59:02,821", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:59:02,822", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:59:02,822", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 11:59:07,987", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 11:59:07,988", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 11:59:07,988", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 12:03:13,569", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:03:13,569", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:03:13,569", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 12:03:34,666", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:03:34,666", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:09:43,574", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:09:43,574", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:09:43,574", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 12:12:32,070", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:12:32,070", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:12:32,070", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 12:13:09,994", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:13:09,994", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:16:49,257", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:16:49,257", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:19:10,457", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:19:10,457", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:19:10,457", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 12:21:48,213", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:21:48,213", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:21:48,219", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint \"chains_name_key\"\nDETAIL:  Key (name)=(Bakers) already exists.\n\n[SQL: INSERT INTO chains (name, image_url, country, online_store) VALUES (%(name)s, %(image_url)s, %(country)s, %(online_store)s) RETURNING chains.id]\n[parameters: {'name': 'Bakers', 'image_url': 'http://imghost.com/2.jpg', 'country': 'US', 'online_store': 'yes'}]\n(Background on this error at: http://sqlalche.me/e/gkpj)"}
+{"asctime": "2021-08-25 12:21:56,836", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:21:56,836", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:25:28,317", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:25:28,317", "namespace": "service_dataset", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:25:28,317", "namespace": "service_dataset", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChains"}
+{"asctime": "2021-08-25 12:46:03,909", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : kxc"}
+{"asctime": "2021-08-25 13:11:20,099", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-25 13:11:20,102", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 13:11:20,102", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}

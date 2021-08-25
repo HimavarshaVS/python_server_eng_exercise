@@ -17,9 +17,9 @@ schemas.Base.metadata.create_all(bind=database.engine)
 
 
 @cbv.cbv(router)
-class Products:
+class ProductsAPI:
 
-    @router.post("/products")
+    @router.post("/products", summary="Insert single record for product")
     def create_products(self, records: Dict, db: Session = Depends(get_db)):
         try:
             _logger.info("create record in for chains")
@@ -28,7 +28,7 @@ class Products:
         except Exception as error:
             _logger.error(f"Error while inserting records in chains :{error}")
 
-    @router.post("/products/bulk-insert")
+    @router.post("/products/bulk-insert", summary="Insert bulk records for products")
     async def create_chains(self, records: List, db: Session = Depends(get_db)):
         try:
             _logger.info("create record in for chains")
@@ -43,7 +43,7 @@ class Products:
             _logger.error(f"Error while inserting records in chains :{error}")
             raise HTTPException(status_code=500, detail="Error while trying to save data")
 
-    @router.get("/products")
+    @router.get("/products", summary="List all products")
     async def get_products(self, db: Session = Depends(get_db)):
         try:
             db_records = crud.get_records(db=db, model="products")
@@ -51,7 +51,7 @@ class Products:
         except Exception as error:
             _logger.error(f"Error while fetching records in chains :{error}")
 
-    @router.get("/products/{product}")
+    @router.get("/products/{product}", summary="List a product and associated chains")
     def get_products_associated_chains(self, product: str, response: Response, db: Session = Depends(get_db)):
         try:
             db_rec_products = crud.get_records_based_on_val(db=db, model="products", column_name="product", value=product)
@@ -78,7 +78,7 @@ class Products:
             _logger.error(f"Error while fetching records in products :{error}")
             return {"message": f"Error while fetching records : {error}"}
 
-    @router.delete("/products/{name}")
+    @router.delete("/products/{name}", summary="Delete a product based on product name")
     async def delete_chain(self, name: str, db: Session = Depends(get_db)):
         try:
             db_records = crud.delete_record(db=db, model="products", value=name, column_name="product")

@@ -1,0 +1,9 @@
+{"asctime": "2021-08-25 12:58:03,545", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-25 12:58:08,608", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:58:08,609", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:59:03,036", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:59:03,037", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 12:59:03,048", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :(psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint \"chains_name_key\"\nDETAIL:  Key (name)=(Bakers) already exists.\n\n[SQL: INSERT INTO chains (name, image_url, country, online_store) VALUES (%(name)s, %(image_url)s, %(country)s, %(online_store)s) RETURNING chains.id]\n[parameters: {'name': 'Bakers', 'image_url': 'http://imghost.com/2.jpg', 'country': 'US', 'online_store': 'yes'}]\n(Background on this error at: http://sqlalche.me/e/gkpj)"}
+{"asctime": "2021-08-25 12:59:16,715", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-25 12:59:16,718", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 12:59:16,718", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}

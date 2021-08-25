@@ -33,7 +33,6 @@ class Locations(Base):
 
 class Products(Base):
     __tablename__ = "products"
-    # Product name Product URL Cost Chains
     id = Column(Integer, unique=True, primary_key=True)
     product = Column(String())
     product_url = Column(String())
