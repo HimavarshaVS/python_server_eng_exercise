@@ -1,8 +1,6 @@
 # python_server_eng_exercise
 
 ## setup
-python3 -m pip install -r requirement.txt
-
 ## database
 psql
 CREATE DATABASE data

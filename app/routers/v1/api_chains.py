@@ -4,11 +4,13 @@ from fastapi import APIRouter, Depends, Response, HTTPException
 from fastapi_utils import cbv
 from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import Session
-
 from ...commons.logger_services.logger_factory_service import SrvLoggerFactory
 from ...models import crud, database
+from ...models.base_models import *
 from ...models import schemas
 from ...resources.dependencies import get_db
+from fastapi_pagination import Page, Params, paginate
+
 
 _logger = SrvLoggerFactory("crud").get_logger()
 router = APIRouter()
@@ -19,11 +21,11 @@ schemas.Base.metadata.create_all(bind=database.engine)
 @cbv.cbv(router)
 class ChainsAPI:
 
-    @router.post("/chains", summary="Insert single chain record")
-    async def create_chain(self, records: Dict, db: Session = Depends(get_db)):
+    @router.post("/chains", summary="Insert single chain record", response_model=CreateChainsResponse)
+    async def create_chain(self, records: CreateChains, db: Session = Depends(get_db)):
         try:
             _logger.info("Insert record for single chains")
-            db_records = crud.insert_records(db=db, records=records, model="chains")
+            db_records = crud.insert_records(db=db, records=records.__dict__, model="chains")
             return db_records
         except Exception as error:
             _logger.error(f"Error while inserting records in chains :{error}")
@@ -45,14 +47,15 @@ class ChainsAPI:
             raise HTTPException(status_code=500, detail="Error while trying to save data")
 
     @router.get("/chains")
-    async def get_chains(self, db: Session = Depends(get_db)):
+    async def get_chains(self, params: Params = Depends(), db: Session = Depends(get_db)):
         try:
             db_records = crud.get_records(db=db, model="chains")
-            return db_records
+            return paginate(db_records, params=params)
         except Exception as error:
             _logger.error(f"Error while fetching records in chains :{error}")
 
-    @router.get("/chains/{name}", summary="List a chain and associated location details")
+    @router.get("/chains/{name}", summary="List a chain and associated location details",
+                )
     async def get_chain_associated_loc(self, name: str,  response: Response, db: Session = Depends(get_db)):
         try:
             db_rec_chains = crud.get_records_based_on_val(db=db, model="chains", column_name="name", value=name)

@@ -1,10 +1,10 @@
 from typing import Dict, List
-
+from fastapi_pagination import Page, Params, paginate
 from fastapi import APIRouter, Depends, Response, HTTPException
 from fastapi_utils import cbv
 from sqlalchemy.orm import Session
 from sqlalchemy.exc import IntegrityError
-
+from ...models.base_models import *
 from app.models import schemas
 from ...commons.logger_services.logger_factory_service import SrvLoggerFactory
 from ...models import crud, database
@@ -20,7 +20,7 @@ schemas.Base.metadata.create_all(bind=database.engine)
 class ProductsAPI:
 
     @router.post("/products", summary="Insert single record for product")
-    def create_products(self, records: Dict, db: Session = Depends(get_db)):
+    def create_products(self, records: CreateProductPost, db: Session = Depends(get_db)):
         try:
             _logger.info("create record in for chains")
             db_records = crud.insert_records(db=db, records=records, model="products")
@@ -44,10 +44,10 @@ class ProductsAPI:
             raise HTTPException(status_code=500, detail="Error while trying to save data")
 
     @router.get("/products", summary="List all products")
-    async def get_products(self, db: Session = Depends(get_db)):
+    async def get_products(self, params: Params = Depends(), db: Session = Depends(get_db)):
         try:
             db_records = crud.get_records(db=db, model="products")
-            return db_records
+            return paginate(db_records, params)
         except Exception as error:
             _logger.error(f"Error while fetching records in chains :{error}")
 
@@ -68,9 +68,10 @@ class ProductsAPI:
                 for chain in product_details['chains']:
                     db_rec_chains = crud.get_records_based_on_val(db=db, model="chains", column_name="name",
                                                                     value=chain)
-                    chain_details = db_rec_chains[0].__dict__
-                    del chain_details['_sa_instance_state']
-                    chains.append(chain_details)
+                    if not len(db_rec_chains) == 0:
+                        chain_details = db_rec_chains[0].__dict__
+                        del chain_details['_sa_instance_state']
+                        chains.append(chain_details)
             product_details['chains'] = chains
             return product_details
 

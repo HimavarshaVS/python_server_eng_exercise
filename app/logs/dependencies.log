@@ -24,3 +24,5 @@
 {"asctime": "2021-08-25 12:59:16,747", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
 {"asctime": "2021-08-25 12:59:16,750", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
 {"asctime": "2021-08-25 12:59:16,761", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 14:51:32,251", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 14:51:32,268", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}

@@ -7,3 +7,4 @@
 {"asctime": "2021-08-25 12:59:16,715", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
 {"asctime": "2021-08-25 12:59:16,718", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
 {"asctime": "2021-08-25 12:59:16,718", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 14:51:32,265", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}

@@ -132,3 +132,22 @@
 {"asctime": "2021-08-25 13:11:20,099", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
 {"asctime": "2021-08-25 13:11:20,102", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
 {"asctime": "2021-08-25 13:11:20,102", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 14:51:50,581", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 14:51:50,581", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 14:51:50,582", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateChain"}
+{"asctime": "2021-08-25 14:53:27,088", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 14:53:28,887", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 14:55:52,346", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 14:55:52,347", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 14:57:48,399", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 14:57:48,910", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 15:16:53,008", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while fetching records in chains :Use params or add_pagination"}
+{"asctime": "2021-08-25 15:18:09,357", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while fetching records in chains :unhashable type: 'slice'"}
+{"asctime": "2021-08-25 15:19:54,066", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while fetching records in chains :Use params or add_pagination"}
+{"asctime": "2021-08-25 15:23:39,403", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while fetching records in chains :'list' object has no attribute '__dict__'"}
+{"asctime": "2021-08-25 15:32:58,630", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "Error while fetching records in chains :Use params or add_pagination"}
+{"asctime": "2021-08-25 15:42:36,391", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 15:42:36,391", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 15:47:34,396", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-25 15:47:52,539", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-25 15:48:23,655", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
