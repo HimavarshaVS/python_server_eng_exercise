@@ -3,3 +3,167 @@
 {"asctime": "2021-08-24 01:41:31,271", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
 {"asctime": "2021-08-24 01:41:57,704", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
 {"asctime": "2021-08-24 01:42:35,126", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:44:58,802", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:55:14,086", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:56:50,547", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:56:50,732", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 01:58:19,758", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 01:58:32,982", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 02:08:45,550", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 02:08:45,553", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 02:10:19,746", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 02:12:57,005", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 02:13:01,947", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 02:13:10,465", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 12:49:44,273", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 12:49:52,928", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-24 12:53:41,626", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-24 12:53:50,371", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:34:44,406", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:35:07,952", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:35:39,955", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:35:57,954", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:36:39,825", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:36:48,220", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:37:14,543", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:38:05,236", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:39:42,408", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:40:42,820", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:41:01,204", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:41:18,435", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:41:30,438", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:41:47,986", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:42:13,601", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:42:19,691", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:42:33,842", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:42:44,808", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:44:12,694", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:44:32,803", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:44:54,178", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:45:12,046", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:45:39,027", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:45:50,122", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:46:20,294", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:46:44,030", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:51:54,244", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:53:44,461", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:53:57,838", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:54:25,688", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:55:49,866", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:55:57,810", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:56:14,329", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:57:38,028", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:57:40,817", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:57:53,425", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:58:27,154", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:58:27,242", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:58:28,664", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:58:28,670", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 05:58:49,046", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 05:59:15,059", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:02:12,707", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:02:23,508", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:02:36,347", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:02:39,364", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:02:44,852", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:03:01,679", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:03:19,515", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:03:21,300", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:03:35,114", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:03:51,369", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:05:17,182", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:05:24,552", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:05:36,073", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:05:52,631", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:11:25,663", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:12:04,850", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:17:36,539", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:17:42,832", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:18:01,381", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:18:30,428", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:31:11,631", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:31:15,197", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:38:38,581", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:38:50,261", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:39:55,110", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:39:57,256", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:57:37,447", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:57:39,599", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:58:34,143", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:58:36,455", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 06:59:50,038", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 06:59:51,996", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:11:16,809", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:11:18,257", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:11:59,415", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:12:01,495", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:13:21,379", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:13:47,024", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:14:09,920", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:14:21,226", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:18:59,996", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:19:09,526", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:19:32,875", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:19:48,563", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:22:44,573", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:23:44,458", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:24:24,988", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:24:26,531", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:31:34,185", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:31:42,502", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:31:48,379", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:32:00,418", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:32:26,510", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:34:54,675", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:40:51,182", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:41:00,699", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:42:06,753", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:42:14,373", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:42:47,872", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:42:51,188", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:43:14,679", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:43:33,278", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:44:02,134", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:44:04,918", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:44:12,115", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:44:14,197", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:44:20,100", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:44:35,742", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:45:07,852", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:45:45,458", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:45:57,686", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:46:24,894", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:46:46,813", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:47:00,544", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:47:23,835", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:47:25,314", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:47:32,934", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:47:34,333", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 07:47:37,397", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 07:47:45,081", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:02:21,055", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:02:23,640", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:02:34,095", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:02:35,756", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:02:38,488", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:02:40,295", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:02:43,519", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:02:52,753", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:03:08,341", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:03:18,245", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:03:37,929", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:03:48,654", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:04:29,626", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:04:29,648", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:04:59,080", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:04:59,086", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:05:16,583", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:05:16,588", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:09:41,592", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:09:52,351", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:10:38,258", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:11:28,291", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:13:30,078", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:13:33,035", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-25 08:13:50,431", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-25 08:13:52,421", "namespace": "service_dataset", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
