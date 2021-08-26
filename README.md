@@ -1,12 +1,19 @@
 # python_server_eng_exercise
 
 ## setup
+
+## Bring up the stack
+docker-compose up --build -d
+
 ## database
-psql
+postgres : 
 CREATE DATABASE data
 
 ## start the server
 uvicorn run:app --host 127.0.0.1 --port 5081
+
+## start server using docker
+docker-compose up
 
 ## Run unit tests
  pytest -c app/tests/pytest.ini
