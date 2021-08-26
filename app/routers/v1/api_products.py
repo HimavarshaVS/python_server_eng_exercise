@@ -29,22 +29,23 @@ class ProductsAPI:
             db_records = crud.insert_records(db=db, records=records.__dict__, model="products")
             return db_records
         except Exception as error:
-            _logger.error(f"Error while inserting records in chains :{error}")
+            _logger.error(f"Error while inserting records in products :{error}")
+            raise HTTPException(status_code=500, detail=f"Error while trying to save data {error}")
 
     @router.post("/products/bulk-insert", summary="Insert bulk records for products")
-    async def create_chains(self, records: List, db: Session = Depends(get_db)):
+    async def create_products_bulk(self, records: List, db: Session = Depends(get_db)):
         try:
-            _logger.info("create record in for chains")
+            _logger.info("create record in for products")
             crud.bulk_insert_records(db=db, list_records=records, model="products")
             return {"message": "success"}
 
         except IntegrityError as error:
-            _logger.error(f"Error while inserting records in chains :{error}")
+            _logger.error(f"Error while inserting records in products :{error}")
             raise HTTPException(status_code=409, detail=f"Error while trying to save data {error}")
 
         except Exception as error:
-            _logger.error(f"Error while inserting records in chains :{error}")
-            raise HTTPException(status_code=500, detail="Error while trying to save data")
+            _logger.error(f"Error while inserting records in products :{error}")
+            raise HTTPException(status_code=500, detail=f"Error while trying to save data {error}")
 
     @router.get("/products", summary="List all products")
     async def get_products(self, params: Params = Depends(), db: Session = Depends(get_db)):
@@ -52,7 +53,8 @@ class ProductsAPI:
             db_records = crud.get_records(db=db, model="products")
             return paginate(db_records, params)
         except Exception as error:
-            _logger.error(f"Error while fetching records in chains :{error}")
+            _logger.error(f"Error while fetching records in products :{error}")
+            raise HTTPException(status_code=500, detail=f"Error while fetching records in products :{error}")
 
     @router.get("/products/{product}", summary="List a product and associated chains")
     def get_products_associated_chains(self, product: str, response: Response, db: Session = Depends(get_db)):

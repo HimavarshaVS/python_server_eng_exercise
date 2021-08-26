@@ -52,8 +52,8 @@ class LocationsAPI:
             db_records = crud.get_records(db=db, model="locations")
             return paginate(db_records, params)
         except Exception as error:
-            _logger.error(f"Error while fetching records in chains :{error}")
-            raise HTTPException(status_code=500, detail=f"Error while fetching records in chains :{error}")
+            _logger.error(f"Error while fetching records in locations :{error}")
+            raise HTTPException(status_code=500, detail=f"Error while fetching records in locations :{error}")
 
     @router.delete("/locations/{name}", summary="Delete a location based on name")
     async def delete_locations(self, name: str, db: Session = Depends(get_db)):
@@ -62,5 +62,5 @@ class LocationsAPI:
             if db_records:
                 return {"message": "success"}
         except Exception as error:
-            _logger.error(f"Error while deleting records in products :{error}")
+            _logger.error(f"Error while deleting records in locations :{error}")
             raise HTTPException(status_code=500, detail=f"Error while trying to delete data {error}")

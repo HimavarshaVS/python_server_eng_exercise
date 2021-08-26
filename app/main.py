@@ -1,9 +1,9 @@
 from fastapi import FastAPI, Request
-from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi_sqlalchemy import DBSessionMiddleware
-from .config import ConfigClass
+from fastapi.responses import JSONResponse
+
 from .api_registry import api_registry
+from .config import ConfigClass
 from .resources.error_handler import APIException
 
 

@@ -14,3 +14,23 @@
 {"asctime": "2021-08-25 23:24:30,172", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in locations"}
 {"asctime": "2021-08-25 23:25:31,911", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in locations"}
 {"asctime": "2021-08-25 23:29:22,349", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in products"}
+{"asctime": "2021-08-25 23:56:54,152", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:56:54,154", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-25 23:56:54,157", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Bakers in <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:56:54,184", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 23:56:54,185", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 23:57:09,767", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:57:09,770", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-25 23:57:09,773", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Bakers in <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:57:09,802", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-25 23:57:09,803", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-25 23:57:09,837", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:57:09,854", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:57:09,856", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-25 23:57:09,865", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Bakers in <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-25 23:57:16,049", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in locations"}
+{"asctime": "2021-08-25 23:57:16,072", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-25 23:57:16,077", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Banana Republic in <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-25 23:57:22,794", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in products"}
+{"asctime": "2021-08-25 23:57:22,831", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-25 23:57:22,838", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Levis Jeans in <class 'app.models.schemas.Locations'>"}

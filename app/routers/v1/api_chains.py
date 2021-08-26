@@ -56,6 +56,7 @@ class ChainsAPI:
             return paginate(db_records, params=params)
         except Exception as error:
             _logger.error(f"Error while fetching records in chains :{error}")
+            raise HTTPException(status_code=500, detail=f"Error while fetching records : {error}")
 
     @router.get("/chains/{name}", summary="List a chain and associated location details",
                 )
