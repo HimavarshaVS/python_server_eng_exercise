@@ -172,3 +172,39 @@
 {"asctime": "2021-08-26 09:39:34,730", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Chains'>"}
 {"asctime": "2021-08-26 09:51:16,320", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Chains'>"}
 {"asctime": "2021-08-26 13:55:03,949", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:39:56,496", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:40:09,374", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Banana Republic from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:40:09,376", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Banana Republic from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:40:19,812", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:40:19,813", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-26 14:41:14,110", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert record for single chains"}
+{"asctime": "2021-08-26 14:41:14,111", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in chains"}
+{"asctime": "2021-08-26 14:41:18,551", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:41:18,553", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:41:28,828", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 14:41:44,845", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Nike shoes from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 14:41:44,846", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:41:44,847", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Banana Republic from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:41:44,849", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Armani from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:42:00,214", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for x from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 14:42:18,139", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for x from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 14:42:28,382", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:48:45,355", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Nike shoes from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 14:48:45,356", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:48:45,357", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Banana Republic from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:48:45,358", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Armani from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:49:43,974", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Bulk insert in <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:51:22,738", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:51:29,553", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Macy's from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:51:29,555", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Macy's from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:51:44,036", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:51:44,038", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:52:13,816", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 14:53:13,452", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 14:56:56,811", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Bakers in <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 14:57:22,841", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Insert bulk record in for chains"}
+{"asctime": "2021-08-26 14:57:22,841", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Bulk insert in <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 15:39:27,270", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Armani from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 15:39:27,272", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Armani from <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 15:46:24,062", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Chains'>"}
+{"asctime": "2021-08-26 15:46:24,120", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetching records for Bakers from <class 'app.models.schemas.Locations'>"}
