@@ -1,0 +1,12 @@
+version: "3"
+services:
+  fastapi:
+    build: .
+    image: federation:v0.3
+    volumes:
+      - ./:/app
+    ports:
+      - 8001:8001
+    working_dir: /app
+    entrypoint: uvicorn run:app --host 0.0.0.0 --port 8001 --reload
+    restart: always

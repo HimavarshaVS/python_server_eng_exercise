@@ -345,3 +345,31 @@
 {"asctime": "2021-08-25 23:17:15,157", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
 {"asctime": "2021-08-25 23:24:45,026", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
 {"asctime": "2021-08-25 23:24:45,029", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:11:20,919", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:11:20,994", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:15:51,805", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:15:51,846", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:18:30,797", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:18:30,858", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:18:48,393", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:18:48,397", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:19:00,398", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:19:00,403", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:19:09,264", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:19:09,266", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:19:21,978", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:19:21,984", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:19:32,787", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:19:32,790", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:42:19,147", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:42:19,148", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:45:39,425", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:45:39,468", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 08:46:12,441", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 08:46:12,445", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 09:39:34,729", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 09:39:34,733", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 09:51:16,320", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 09:51:16,324", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}
+{"asctime": "2021-08-26 13:55:03,948", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Connecting db"}
+{"asctime": "2021-08-26 13:55:03,953", "namespace": "python_eng_exercise", "sub_name": "dependencies", "level": "INFO", "message": "Closing db connection"}

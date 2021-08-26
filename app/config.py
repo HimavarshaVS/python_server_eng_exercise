@@ -2,7 +2,7 @@
 class ConfigClass(object):
     version = "0.1.0"
 
-    RDS_HOST = "localhost"
+    RDS_HOST = "192.168.0.31"
     RDS_PORT = 5432
     RDS_DBNAME = "data"
     RDS_USER = "varsha"

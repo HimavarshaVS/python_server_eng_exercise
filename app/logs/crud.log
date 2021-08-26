@@ -34,3 +34,6 @@
 {"asctime": "2021-08-25 23:57:22,794", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in products"}
 {"asctime": "2021-08-25 23:57:22,831", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Products'>"}
 {"asctime": "2021-08-25 23:57:22,838", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Levis Jeans in <class 'app.models.schemas.Locations'>"}
+{"asctime": "2021-08-26 09:38:02,369", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in products"}
+{"asctime": "2021-08-26 09:38:02,488", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Fetch all records from <class 'app.models.schemas.Products'>"}
+{"asctime": "2021-08-26 09:38:02,493", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Deleting record for Levis Jeans in <class 'app.models.schemas.Locations'>"}

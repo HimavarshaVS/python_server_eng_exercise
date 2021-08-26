@@ -5,4 +5,4 @@ app = create_app()
 add_pagination(app)
 
 if __name__ == "__main__":
-    uvicorn.run("run:app", host="127.0.0.1", port=5081, log_level="info", reload=True)
+    uvicorn.run("run:app", host="0.0.0.0", port=5081, log_level="info", reload=True)
