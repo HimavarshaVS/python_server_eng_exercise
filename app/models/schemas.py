@@ -21,7 +21,6 @@ class Chains(Base):
 
 class Locations(Base):
     __tablename__ = "locations"
-    # Chain latitude longitude Postal code enabled Phone
     id = Column(Integer, unique=True, primary_key=True)
     chain = Column(String())
     latitude = Column(Float())

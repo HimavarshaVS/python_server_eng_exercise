@@ -151,3 +151,4 @@
 {"asctime": "2021-08-25 15:47:34,396", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
 {"asctime": "2021-08-25 15:47:52,539", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
 {"asctime": "2021-08-25 15:48:23,655", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "ERROR", "message": "No records found for chain : Bakers"}
+{"asctime": "2021-08-25 23:24:45,028", "namespace": "python_eng_exercise", "sub_name": "crud", "level": "INFO", "message": "Inserting records in locations"}

@@ -20,6 +20,9 @@ schemas.Base.metadata.create_all(bind=database.engine)
 
 @cbv.cbv(router)
 class ChainsAPI:
+    """
+    APIs to perform CRUD operations for Chains
+    """
 
     @router.post("/chains", summary="Insert single chain record", response_model=CreateChainsResponse)
     async def create_chain(self, records: CreateChains, db: Session = Depends(get_db)):

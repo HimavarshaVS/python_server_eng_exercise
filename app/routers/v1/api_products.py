@@ -18,12 +18,15 @@ schemas.Base.metadata.create_all(bind=database.engine)
 
 @cbv.cbv(router)
 class ProductsAPI:
+    """
+    APIs to perform CRUD operations for Products
+    """
 
     @router.post("/products", summary="Insert single record for product")
     def create_products(self, records: CreateProductPost, db: Session = Depends(get_db)):
         try:
             _logger.info("create record in for chains")
-            db_records = crud.insert_records(db=db, records=records, model="products")
+            db_records = crud.insert_records(db=db, records=records.__dict__, model="products")
             return db_records
         except Exception as error:
             _logger.error(f"Error while inserting records in chains :{error}")

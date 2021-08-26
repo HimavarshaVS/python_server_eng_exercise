@@ -1,0 +1,3 @@
+{"asctime": "2021-08-25 23:24:30,172", "namespace": "python_eng_exercise", "sub_name": "locations", "level": "INFO", "message": "Insert record in for locations"}
+{"asctime": "2021-08-25 23:24:30,172", "namespace": "python_eng_exercise", "sub_name": "locations", "level": "ERROR", "message": "Error while inserting records in chains :DeclarativeMeta object argument after ** must be a mapping, not CreateLocationPost"}
+{"asctime": "2021-08-25 23:25:31,911", "namespace": "python_eng_exercise", "sub_name": "locations", "level": "INFO", "message": "Insert record in for locations"}

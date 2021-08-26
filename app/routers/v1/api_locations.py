@@ -18,12 +18,14 @@ schemas.Base.metadata.create_all(bind=database.engine)
 
 @cbv.cbv(router)
 class LocationsAPI:
-
+    """
+    APIs to perform CRUD operations for Locations
+    """
     @router.post("/locations", summary="Insert single record for location")
     async def create_locations(self, records: CreateLocationPost, db: Session = Depends(get_db)):
         try:
             _logger.info("Insert record in for locations")
-            db_records = crud.insert_records(db=db, records=records, model="locations")
+            db_records = crud.insert_records(db=db, records=records.__dict__, model="locations")
             return db_records
         except Exception as error:
             _logger.error(f"Error while inserting records in chains :{error}")

@@ -6,8 +6,6 @@ from ..commons.logger_services.logger_factory_service import SrvLoggerFactory
 
 _logger = SrvLoggerFactory("crud").get_logger()
 
-db = Session
-
 
 def insert_records(db: Session, records, model):
     _logger.info(f"Inserting records in {model}")
@@ -43,7 +41,6 @@ def bulk_insert_records(db: Session, list_records, model):
 
 
 def delete_record(db:Session, model, column_name, value):
-    # User.query.filter_by(id=123).delete()
     model_val = get_model(model)
     query = db.query(model_val)
     sql = {column_name: value}
